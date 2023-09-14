@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../mdnjv/class"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../banklist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "class"
+	}
+}
